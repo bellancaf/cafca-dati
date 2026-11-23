@@ -1,13 +1,13 @@
 {
  "formato": 1,
- "creato": "2026-11-23T09:29:07.776Z",
+ "creato": "2026-11-23T09:32:00.595Z",
  "file": [
   {
    "nome": "comuni",
-   "file": "comuni-c646a98968be00f9.json",
-   "sha256": "c646a98968be00f9a2105dddd28f8483cf134ada0f4c98684b0d8bf9579ed940",
-   "byte": 1621657,
-   "byte_brotli": 180173
+   "file": "comuni-be6cc11fa07b0215.json",
+   "sha256": "be6cc11fa07b02156ea366cd5ad886a7c6ff73c186fa6445d0675706535fe7aa",
+   "byte": 1621574,
+   "byte_brotli": 180183
   },
   {
    "nome": "aiuti",
