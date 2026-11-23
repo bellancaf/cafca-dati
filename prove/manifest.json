@@ -1,0 +1,34 @@
+{
+ "formato": 1,
+ "creato": "2026-11-23T07:43:28.509Z",
+ "file": [
+  {
+   "nome": "comuni",
+   "file": "comuni-c646a98968be00f9.json",
+   "sha256": "c646a98968be00f9a2105dddd28f8483cf134ada0f4c98684b0d8bf9579ed940",
+   "byte": 1621657,
+   "byte_brotli": 180173
+  },
+  {
+   "nome": "aiuti",
+   "file": "aiuti-5720ffd73c9c1c63.json",
+   "sha256": "5720ffd73c9c1c63176c9dd5406f0f8246981a109dbfbea6d1023019a5ea8249",
+   "byte": 3600879,
+   "byte_brotli": 422762
+  },
+  {
+   "nome": "calendario",
+   "file": "calendario-5af5fe80e710174e.json",
+   "sha256": "5af5fe80e710174ec2eba97901b34e1e244bf59dfc58807642ae8518e76d90bd",
+   "byte": 12277,
+   "byte_brotli": 3081
+  },
+  {
+   "nome": "ambiti",
+   "file": "ambiti-1f2f9a8563e80d66.json",
+   "sha256": "1f2f9a8563e80d66ba0734b5ede11416ca40891a26e296c64a7ac557f1998c99",
+   "byte": 685610,
+   "byte_brotli": 58479
+  }
+ ]
+}
