@@ -1,6 +1,6 @@
 {
  "formato": 1,
- "creato": "2026-11-25T19:59:22.714Z",
+ "creato": "2026-11-25T20:21:59.779Z",
  "file": [
   {
    "nome": "comuni",
@@ -11,10 +11,10 @@
   },
   {
    "nome": "aiuti",
-   "file": "aiuti-91fc477916048ca3.json",
-   "sha256": "91fc477916048ca3700c6db86822249a2a4d84a2e960138e687f2baab6ad07af",
-   "byte": 4704317,
-   "byte_brotli": 560292
+   "file": "aiuti-537bbbdf23fbc601.json",
+   "sha256": "537bbbdf23fbc601f23c3de7ae96a31b3bee5a696b505c4d33121c8d52939bbd",
+   "byte": 4705433,
+   "byte_brotli": 560252
   },
   {
    "nome": "calendario",
